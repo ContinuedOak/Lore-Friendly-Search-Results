@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    # Each "Item" tag may have "chance" attribute
+    # Possible "chance" values are: "rare", "normal", "often"
+    # If "chance" attribute is not set, then the plugin will set it as "normal" by default
+	
+	# This file has been modified by ContinuedOak to be shared only on LSPDFR and GTA5mods.com
+-->
+<VehicleItems>
+	<RedItems>
+		<Item chance="normal">a handgun</Item>
+		<Item chance="normal">a hidden handgun</Item>
+		<Item chance="rare">a loaded handgun</Item>
+		<Item>a briefcase full of heroin</Item>
+		<Item>a briefcase full of methamphetamine</Item>
+		<Item>a briefcase full of cocaine</Item>
+		<Item>several bags of marijuana</Item>
+		<Item>a modified handgun</Item>
+		<Item>a modified shotgun</Item>
+		<Item>a weapon firing switch</Item>
+		<Item>a large amount of ammo</Item>
+		<Item>a Sawed off shotgun</Item>
+		<Item>a bag of shrooms</Item>
+		<Item>several pounds of methamphetamine</Item>
+		<Item>several pounds of heroine</Item>
+		<Item>several pounds of cocaine</Item>
+		<Item chance="rare">a nunchucks</Item>
+		<Item>a silencer</Item>
+		<Item chance="rare">an IED</Item>
+		<Item chance="rare">a couple of grenades</Item>
+		<Item>an AR-15 rifle</Item>
+		<Item>a sniper rifle</Item>
+		<Item>a Fake ID</Item>
+		<Item>a Fake Passport</Item>
+		<Item>Human Remains</Item>
+		<Item>a FIB uniform</Item>
+		<Item>a Police Scanner</Item>
+		<Item>a Bloodstained Clothing</Item>
+		<Item>a open Bottle of Alcohol</Item>
+		<Item>a Large Bag of Cash</Item>
+		<Item>a Credit Card Reader</Item>
+		<Item>a pair of bloody gloves</Item>
+		<Item>a Fake Cop Badge</Item>
+		<Item>a bloody LostMC Vest</Item>
+		<Item>a blueprints for the Diamond Casino Vault</Item>
+		<Item>a severed pinky finger in a plastic bag</Item>
+		<Item>an image of a dead body</Item>
+		<Item>an image of a missing person</Item>
+		<Item>an open NoGo Vodka Bottle</Item>
+		<Item>a closed NoGo Vodka Bottle</Item>
+		<Item>an open bottle of Pißwasser</Item>
+		<Item>a sexual photo of a minor</Item>
+		<Item>Bowling Brook blueprint</Item>
+		<Item>a box of butterfly knives</Item>
+		<Item>a tool used for hacking</Item>
+		<Item>a missing childs backpack</Item>
+	</RedItems>
+	<YellowItems>
+		<Item chance="normal">wire cutters</Item>
+		<Item>several cell phones</Item>
+		<Item>several cans of spray paint</Item>
+		<Item>glass-cutting equipment</Item>
+		<Item>several rounds of ammunition</Item>
+		<Item>a bag of fertilizer</Item>
+		<Item>a duffel bag full of money</Item>
+		<Item>a briefcase full of $100 bills</Item>
+		<Item>a clown mask</Item>
+		<Item>a clown outfit</Item>
+		<Item>a human skull</Item>
+		<Item>a large bloodstain</Item>
+		<Item>a brown bag stuffed with money</Item>
+		<Item>a bottle of percocet</Item>
+		<Item>a bottle of morphine</Item>
+		<Item>a crossbow</Item>
+		<Item>a hatchet</Item>
+		<Item>a hammer</Item>
+		<Item>a kitchen knife</Item>
+		<Item>a chainsaw</Item>
+		<Item>a large axe</Item>
+		<Item>a crowbar</Item>
+		<Item>a katana</Item>
+		<Item>a samurai</Item>
+		<Item>knuckledusters</Item>
+		<Item>a baseball bat</Item>
+		<Item>a machete</Item>
+		<Item>a can of pepper spray</Item>
+		<Item>a tazer</Item>
+		<Item>a suicide letter</Item>
+		<Item>a police nightstick</Item>
+		<Item>several pills in an unmarked bottle</Item>
+		<Item>a wrapped brick containing brown powder</Item>
+		<Item>a bottle containing a clear liquid</Item>
+		<Item>a containing a liquid residue</Item>
+		<Item>a duffle bag filled with baggies of white powder</Item>
+		<Item>a scale coated with white powder</Item>
+		<Item>a scale coated with tan powder</Item>
+		<Item>an empty baggie with black powder residue</Item>
+		<Item>empty vial containing white powder residue</Item>
+		<Item>a few sheets of perforated blotter paper</Item>
+		<Item>two empty baggies with a brown powder residue</Item>
+		<Item>a dollar-bill covered in powder</Item>
+		<Item>a baggie of unmarked pills</Item>
+		<Item>a baggie of unmarked tablets</Item>
+		<Item>a baggie of unmarked capsules</Item>
+		<Item>some blotter paper</Item>
+		<Item>a Lockpick kit</Item>
+		<Item>a Flyer for the Epsilon Program</Item>
+		<Item>a human skull</Item>
+		<Item>a large bloodstain</Item>
+		<Item>a brown bag stuffed with money</Item>
+		<Item>a bag of teeth</Item>
+		<Item>a kitchen knife</Item>
+		<Item>a bloody kitchen knife</Item>
+		<Item>a VHS tape labeled Bigfoot Sighting</Item>
+		<Item>a bulletproof vest</Item>
+		<Item>a news clipping about a missing person</Item>
+		<Item>a Unregistered Drone with Camera</Item>
+		<Item>a encrypted Walkie Talkie</Item>
+		<Item>a military ID badge for a base that doesn’t exist on any map</Item>
+		<Item>a blurry photo of a jet… flying alongside something that isn’t a plane</Item>
+	</YellowItems>
+	<GreenItems>
+		<Item chance="often">a flashlight</Item>
+		<Item>a Vinewood star autograph photo</Item>
+		<Item>a beach towel</Item>
+		<Item>a soccer ball</Item>
+		<Item>jerry can</Item>
+		<Item>prosthetic arm</Item>
+		<Item>a bottle of bleach</Item>
+		<Item>bags of groceries</Item>
+		<Item chance="rare">a bowling ball</Item>
+		<Item>a tennis racquet</Item>
+		<Item>a badminton racquete</Item>
+		<Item>a violin</Item>
+		<Item>a basketball</Item>
+		<Item>an NFL football</Item>
+		<Item>a soccer ball</Item>
+		<Item>an urn of ashes</Item>
+		<Item chance="often">a pair of shoes</Item>
+		<Item>a pair of sandals</Item>
+		<Item>a shovel</Item>
+		<Item>a macbook pro laptop</Item>
+		<Item>a locked briefcase</Item>
+		<Item>a pile of dirty clothes</Item>
+		<Item>a motorbike helmet</Item>
+		<Item>a bag of oranges</Item>
+		<Item>a toaster</Item>
+		<Item>a bottle of hand sanitizer</Item>
+		<Item>a set of jumper cables</Item>
+		<Item>a halloween costume</Item>
+		<Item>a cowboy hat</Item>
+		<Item>a hair sample labeled UNKNOWN SPECIES - NOT HUMAN</Item>
+		<Item>a Box of Donuts</Item>
+		<Item>a fedora</Item>
+		<Item>an LS Customs Car Repair Bill</Item>
+		<Item>a plane ticket to Vice City</Item>
+		<Item>a plane ticket to Cayo Perico</Item>
+		<Item>a plane ticket to North Yankton</Item>
+		<Item>a plane ticket to Liberty City</Item>
+		<Item>a first-class airline ticket to North Yankton</Item>
+		<Item>a first-class airline ticket to Vice City</Item>
+		<Item>a first-class airline ticket to Liberty City</Item>
+		<Item>a Scratch-Off Ticket for San Andreas State Lottery</Item>
+		<Item>CDs and Cassettes</Item>
+		<Item>a Burger Shot Meal Wrapper</Item>
+		<Item>a Flyer for The Vanilla Unicorn Strip Club</Item>
+		<Item>a Copy of Love Fist’s Greatest Hits</Item>
+		<Item>a prosthetic arm</Item>
+		<Item>a Merryweather ID Badge</Item>
+		<Item>ID</Item>
+		<Item>a bag of weed</Item>
+		<Item>ID</Item>
+		<Item>a Shark card</Item>
+		<Item>a Smoke on the Water receipt</Item>
+		<Item>a LD Organics receipt</Item>
+		<Item>a Pay n Spray receipt from Liberty City</Item>
+		<Item>a Rusty Browns Ring Donuts receipt</Item>
+		<Item>a Premium Deluxe Motorsport receipt</Item>
+		<Item>a Pack of Redwood cigarettes</Item>
+		<Item>a Princess Robot Bubblegum sticker</Item>
+		<Item>a LSPD empolyment forum</Item>
+		<Item>a LSFD empolyment forum</Item>
+		<Item>a Car Manual</Item>
+		<Item>Mouldy Food</Item>
+		<Item>a Sprunk Can</Item>
+		<Item>a Ecola Can</Item>
+		<Item>a Empty Pizza This Box</Item>
+		<Item>a bag of apples</Item>
+		<Item>a bottle of diet cola</Item>
+		<Item>a large bong</Item>
+		<Item>a IFruit Phone</Item>
+		<Item>a Panormaic reciept</Item>
+		<Item>a Up n Atom burger</Item>
+		<Item>a Up n Atom wrapper</Item>
+		<Item>a Up n Atom reciept</Item>
+		<Item>a half eaten Bleeder Burger</Item>
+		<Item>a Cluckin Bell burger</Item>
+		<Item>a Cluckin Bell wrapper</Item>
+		<Item>a Cluckin Bell reciept</Item>
+		<Item>a Fame or Shame Audition ticket</Item>
+		<Item>a YouTool reciept</Item>
+		<Item>a BitterSweeet Phone</Item>
+		<Item>a Bite sandwich</Item>
+		<Item>a Bite wrapper</Item>
+		<Item>a Bite reciept</Item>
+		<Item>a Empty Junk Energy can</Item>
+		<Item>a Half Empty Junk Energy can</Item>
+		<Item>a Full Junk Energy can</Item>
+		<Item>a box of prolaps shoes</Item>
+		<Item>an unopened PostOp box</Item>
+		<Item>a Alderney Casino payout ticket</Item>
+		<Item>a hospital bill</Item>
+		<Item>a unpaid parking fine</Item>
+		<Item>a bowling win sheet</Item>
+		<Item>a gokart time sheet</Item>
+		<Item>a MazeBank Debt Card</Item>
+		<Item>a MazeBank Credit Card</Item>
+		<Item>a LibertyBank Debt Card</Item>
+		<Item>a LibertyBank Credit Card</Item>
+		<Item>a CherryPopper IceCream wrapper</Item>
+		<Item>a Downtown Cab Co recipt</Item>
+	</GreenItems>
+</VehicleItems>
