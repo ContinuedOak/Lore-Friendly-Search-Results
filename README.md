@@ -1,0 +1,1 @@
+# Lore-Friendly-Search-Results
